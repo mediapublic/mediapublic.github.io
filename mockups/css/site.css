@@ -1,0 +1,74 @@
+
+body {
+    font-family: 'Open Sans', sans-serif !important;
+}
+
+.top-wrapper {
+    width:100%;
+    border-bottom: 1px solid #222;
+    background-color: #008CBA; /*#6600FF;*/
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding: 1rem;
+}
+
+.top-wrapper a {
+    color: #EEE !important;
+}
+
+.top-title {
+    text-align: left;
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+.top-nav a {
+    margin-right: 2rem;
+}
+
+.page-contents {
+    margin-top: 2rem;
+}
+
+/* stations */
+
+.station-search-wrapper {
+    padding: 2rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+/* station */
+
+.white-shadow-box {
+    background-color: #FEFEFE;
+    margin-top: 10px;
+    box-shadow: 0px 0px 0px 1px #DDD, 0px 4px 8px rgba(200, 200, 200, 0.9); 
+    padding: .7rem;
+}
+
+.about-station {
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+}
+
+.dark-line {
+    border-color: #888;
+}
+
+.light-line {
+    border-color: #EEE;
+}
+
+.top-gap {
+    min-height: 20px;
+    height: 20px;
+}
+
+.left-gap {
+    margin-left: .5rem;
+}
+
+.big-left-gap {
+    margin-left: 1.6rem;
+}
